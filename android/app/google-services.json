@@ -1,0 +1,47 @@
+{
+    "project_info": {
+      "project_number": "1010003625223",
+      "firebase_url": "https://coat-color.firebaseio.com",
+      "project_id": "coat-color",
+      "storage_bucket": "coat-color.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:1010003625223:android:3c6560589160acb12e31a2",
+          "android_client_info": {
+            "package_name": "co.challenge"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "1010003625223-ibliip2imgdi2o2fevplls7blbu63hld.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCPhX_jt0kW6uiWxgDmNJer_pBAR2W4IB0"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "1010003625223-ibliip2imgdi2o2fevplls7blbu63hld.apps.googleusercontent.com",
+                "client_type": 3
+              },
+              {
+                "client_id": "1010003625223-qtd3nrtgabn023qorm7l2c8rf7hf9nra.apps.googleusercontent.com",
+                "client_type": 2,
+                "ios_info": {
+                  "bundle_id": "co.challenge"
+                }
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }

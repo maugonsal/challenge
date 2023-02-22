@@ -1,0 +1,7 @@
+.eslintrc.js
+babel.config.js
+metro.config.js
+jest.config.js
+.prettierrc.js
+commitlint.config.js
+coverage/*
